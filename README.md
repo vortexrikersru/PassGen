@@ -3,10 +3,10 @@
 
 
 
-Secure Password Generator
+🔐 Secure Password Generator
 A modern, responsive, and user‑friendly web application for generating strong, customizable passwords. Built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies, just clean and efficient code.
 
-Features
+✨ Features
 • 	Customizable Password Options
 • 	Uppercase letters
 • 	Lowercase letters
