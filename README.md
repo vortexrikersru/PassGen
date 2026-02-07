@@ -1,7 +1,7 @@
 <img width="879" height="995" alt="image" src="https://github.com/user-attachments/assets/78197839-d45f-4235-8f67-acc48d0326fc" />
 
 
-# Password Generator App Description
+# Password Generator App
 
 This **Secure Password Generator** is a sleek, user-friendly web application that creates strong, random passwords with advanced security features. Designed with a modern interface and intuitive controls, it helps users generate secure passwords in seconds.
 
